@@ -127,8 +127,8 @@ if st.session_state["canvas_data"] is not None:
                         confidence_score = confidence[predicted].item() * 100
 
                     # Show results
-                    st.write(f"Predicted Number: {predicted.item()}")
-                    st.write(f"Confidence: {confidence_score:.2f}%")
+                    st.markdown(f"<b>Predicted Number:</b> <span style='font-size:20px;'>{predicted.item()}</span>", unsafe_allow_html=True)
+                    st.markdown(f"<b>Confidence:</b> <span style='font-size:20px; color:#00cc00;'>{confidence_score:.2f}%</span>", unsafe_allow_html=True)
         
         with col_clear:
             if st.button("🔄 Clear Canvas"):

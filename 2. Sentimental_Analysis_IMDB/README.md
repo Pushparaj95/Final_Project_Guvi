@@ -103,8 +103,8 @@ The model achieved an accuracy of **88%** on the test dataset. Below is the conf
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/sentiment-analysis.git
-    cd Sentiment_Analysis_IMDB
+    git clone https://github.com/Pushparaj95/Final_Project_Guvi.git
+    cd 2. Sentiment_Analysis_IMDB
     ```
 
 2. Install dependencies:
