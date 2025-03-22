@@ -92,10 +92,10 @@ The model achieved an accuracy of **88%** on the test dataset. Below is the conf
 ## Screenshots
 
 ### Model Performance Merics
-![Model Performance](screenshots/metrics.jpg)
+![Model Performance](Screenshots/metrics.jpg)
 
 ### Training and Validation Loss/Accuracy
-![Training and Validation](screenshots/training_validation.jpg)
+![Training and Validation](Screenshots/training_validation.jpg)
 
 ---
 
@@ -124,7 +124,7 @@ The model achieved an accuracy of **88%** on the test dataset. Below is the conf
 ## Final Model Review Predictions
 
 Here are some real-time predictions made by the model:
-![Model Predictions](screenshots/model_predictions.jpg)
+![Model Predictions](Screenshots/model_predictions.jpg)
 
 | Review | Actual Sentiment | Predicted Sentiment | Confidence Score |
 |--------|------------------|---------------------|------------------|
@@ -135,5 +135,5 @@ Here are some real-time predictions made by the model:
 
 ## Streamlit UI
 Here is a simple Streamlit UI to interact with the model:
-![Streamlit UI](screenshots/UI.jpg)
+![Streamlit UI](Screenshots/UI.jpg)
 ---
