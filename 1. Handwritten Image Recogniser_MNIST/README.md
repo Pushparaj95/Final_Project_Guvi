@@ -1,4 +1,4 @@
-# MNIST Classification with PyTorch
+# MNIST Classification
 
 This project demonstrates the training and evaluation of a Convolutional Neural Network (CNN) on the MNIST dataset using PyTorch. The notebook includes data preprocessing, model training, hyperparameter tuning, and performance evaluation.
 
